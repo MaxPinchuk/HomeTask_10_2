@@ -4,7 +4,7 @@ package com.company;
  * 2 Создание комплексного класса.
  *
  * 2.1 Создать класс Pizza. Описать поля:
- * basis – поле типа Circle
+ * basic – поле типа Circle
  * composition – состав пиццы
  * name – название пиццы
  * cost – цена.
